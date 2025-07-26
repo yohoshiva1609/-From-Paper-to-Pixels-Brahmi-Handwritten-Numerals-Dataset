@@ -37,3 +37,7 @@ This dataset was created using a structured, step-by-step pipeline as described 
 
 6. **Augmentation**  
    Data augmentation was applied using `ImageDataGenerator` to increase the dataset size to 200 samples per class.
+
+
+Note: Download the brahmi_handwritten dataset.zip file this file is whole data 
+
