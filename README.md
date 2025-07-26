@@ -1,0 +1,1 @@
+# -From-Paper-to-Pixels-Brahmi-Handwritten-Numerals-Dataset
