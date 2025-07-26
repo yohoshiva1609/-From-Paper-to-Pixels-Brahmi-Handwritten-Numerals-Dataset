@@ -39,5 +39,18 @@ This dataset was created using a structured, step-by-step pipeline as described 
    Data augmentation was applied using `ImageDataGenerator` to increase the dataset size to 200 samples per class.
 
 
+## Acknowledgements
+
+We would like to express our sincere gratitude to:
+
+- **Dr. Devarakonda Nagaraju**, VIT-AP  
+- **Dr. Nagendra Panini Challa**, VIT-AP  
+
+for their invaluable guidance, constant encouragement, and thoughtful monitoring throughout the creation of this dataset. Their support played a key role in shaping the direction and execution of this work.
+
+Special thanks also to the participants and faculty members of **VIT-AP University** who contributed to the handwritten data collection process.
+
+
+
 Note: Download the brahmi_handwritten dataset.zip file this file is whole data 
 
