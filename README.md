@@ -1,4 +1,4 @@
-# -From-Paper-to-Pixels-Brahmi-Handwritten-Numerals-Dataset
+# From-Paper-to-Pixels-Brahmi-Handwritten-Numerals-Dataset
 
 
 This repository contains a handwritten dataset of **Brahmi script numerals (0–9)** created as part of a structured pipeline designed for low-resource scripts. The dataset includes **200 image samples per numeral**, collected, processed, and stored in class-specific folders.
@@ -44,7 +44,8 @@ This dataset was created using a structured, step-by-step pipeline as described 
 We would like to express our sincere gratitude to:
 
 - **Dr. Devarakonda Nagaraju**, VIT-AP  
-- **Dr. Nagendra Panini Challa**, VIT-AP  
+- **Dr. Nagendra Panini Challa**, VIT-AP
+- **Dr. Aravapalli Rama Satish**, VIT-AP 
 
 for their invaluable guidance, constant encouragement, and thoughtful monitoring throughout the creation of this dataset. Their support played a key role in shaping the direction and execution of this work.
 
